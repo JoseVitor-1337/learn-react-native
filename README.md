@@ -2,8 +2,6 @@
 
 ### Learning react native with small Apps
 
-#
-
 ### Calculate IMC
 
 - Read TextInput
